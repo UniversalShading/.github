@@ -10,4 +10,4 @@ Also a VM will be provided, so shaders will be able to run on CPU or GPU (by tra
 
 Shader caching will also be provided by utilities or Database. Shaders can also be ASCII or binary...
 
-**-- In Progress --**
+**-- Compiler Is In Progress --**
