@@ -1,5 +1,3 @@
-# 🧊 Universal Shading Language
-
 Universal Shading Language (USL) is new language for shading. `.usl` extension can be used for USL files. 
 The main goal of USL is simplfy shaders, 
 provide mixins (expecially for common tasks) and translate universal language to vendor specific shaders.
